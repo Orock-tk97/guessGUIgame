@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 30px;
+   background-color:rgb(180, 98, 98);
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  input[type="number"] {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  button{
+      width:100px;
+      height: 40px;
+  }
